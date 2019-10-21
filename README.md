@@ -1,7 +1,7 @@
 # Project Name 
 Infinite Giphy
 
-![Image](https://i.imgur.com/Dmjds6vl.png)
+![Image](https://i.imgur.com/X49n2iw.png)
 
 ## Table of Contents
 - Description
