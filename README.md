@@ -1,7 +1,7 @@
 # Project Name 
 Infinite Giphy
 
-![Image](https://i.imgur.com/IFvWdHs.png?1)
+![Image](https://i.imgur.com/Dmjds6vl.png)
 
 ## Table of Contents
 - Description
@@ -22,7 +22,7 @@ Infinite Giphy
    
  **Features**:
  
- Shows a list of your favourite GIFs. 
+ Display a list of your favourite GIFs. 
  
  **Challenges**
  This exercise tested my new acquired knowledge in Jquery and AJAX to complete the task. 
