@@ -1,0 +1,53 @@
+.giphy-list {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;  
+}
+
+.giphy-input{
+    margin-right: 3px;
+    border-color: rgb(41, 187, 198);
+}
+
+.display {
+    padding:20px;
+}
+
+form {
+    display:flex;
+    justify-content: center;
+}
+
+h1 {
+    /* align-content: center; */
+    font-family: 'Sacramento', cursive;
+    color: rgb(41, 187, 198);
+    font-size: 3em;
+}
+
+body{
+    background-color: antiquewhite;
+    text-align: center
+}
+
+.giphy-button {
+    padding: 3px;
+    border-radius: 10%;
+    background-color: rgb(41, 187, 198);
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: space-around
+}
+
+.ellipse {
+    margin-top:-4%;
+    height:80px;
+    width:50px;
+    -webkit-clip-path:polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    clip-path:polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    background-color: rgb(41, 187, 198);
+}
